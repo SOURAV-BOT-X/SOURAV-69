@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "Jubayer-bot",
+  "BOTNAME": "𝚂𝙾𝚄𝚁𝙰𝚅-𝙱𝙾𝚃=/🩷🪽",
   "PREFIX": "/",
   "OPERATOR": [
     "100069926588234"
   ],
   "ADMINBOT": [
-    "100092747803433",
-    "61554533460706"
+    "100075964867229",
+    "100092747803433"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
